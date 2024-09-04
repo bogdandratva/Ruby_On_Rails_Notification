@@ -2,12 +2,6 @@
 
 Mountable notifications for any Rails applications.
 
-[![Gem Version](https://badge.fury.io/rb/notifications.svg)](https://badge.fury.io/rb/notifications) [![Build Status](https://travis-ci.org/rails-engine/notifications.svg)](https://travis-ci.org/rails-engine/notifications) [![codecov.io](https://codecov.io/github/rails-engine/notifications/coverage.svg?branch=master)](https://codecov.io/github/rails-engine/notifications?branch=master)
-
-## Example:
-
-<img width="800" alt="2016-03-29 10 48 16" src="https://cloud.githubusercontent.com/assets/5518/16578955/eb59e472-42cf-11e6-825e-8fc9ecf58a8b.png">
-
 ## Installation
 
 ```bash
@@ -144,10 +138,5 @@ make test_51
 make test
 ```
 
-## Site Used
-
-- [Ruby China](https://ruby-china.org)
-
 ## License
-
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
